@@ -1,6 +1,6 @@
 all: HW3
 
-HW3: LogisticRegression.java PerceptronModel.java ProgPerceptron.java ProgramLR.java
+HW3: LogisticRegression.java ProgramLR.java
 	javac *.java
 
 clean:
